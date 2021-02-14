@@ -12,7 +12,7 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/PizzaRestaurant' onClick={toggleHome}>Pizza</SocialLogo>
+            <SocialLogo to='/' onClick={toggleHome}>Pizza</SocialLogo>
             <WebsiteRights>Pizza © {new Date().getFullYear()} All Rights Reserved.</WebsiteRights>
             <SocialIcons>
               <SocialIconLink href='https://www.facebook.com/' target='_blank' aria-label='Facebook'>

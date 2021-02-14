@@ -14,10 +14,10 @@ const Sidebar = ({ isOpen, toggle }) => {
         <SidebarLink to="drinks" onClick={toggle}>Drinks</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
-        <SidebarRoute to='/PizzaRestaurant/fullmenu'>Full Menu</SidebarRoute>
+        <SidebarRoute to='/fullmenu'>Full Menu</SidebarRoute>
       </SideBtnWrap>
       <SideBtnWrap>
-        <SidebarRoute to='/PizzaRestaurant/signin'>Order Now</SidebarRoute>
+        <SidebarRoute to='/signin'>Order Now</SidebarRoute>
       </SideBtnWrap>
     </SidebarContainer>
   );
