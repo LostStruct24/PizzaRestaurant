@@ -14,7 +14,7 @@ const Hero = () => {
                     <HeroH1>Greatest Pizza Ever</HeroH1>
                     <HeroP>Ready in 60 Seconds</HeroP>
                     <HeroBtnWrapper>
-                        <HeroBtn to="/signin" onMouseEnter={onHover} onMouseLeave={onHover}
+                        <HeroBtn to="/PizzaRestaurant/signin" onMouseEnter={onHover} onMouseLeave={onHover}
                         primary="true"
                         dark="true">
                             Place an Order {hover ? <ArrowForward /> : <ArrowRight />}

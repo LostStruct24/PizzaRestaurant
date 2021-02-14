@@ -27,7 +27,7 @@ const Navbar = ({ toggle }) => {
         <>
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
-                    <NavLogo to="/" onClick={toggleHome}>Pizza <FaPizzaSlice /></NavLogo>
+                    <NavLogo to="/PizzaRestaurant" onClick={toggleHome}>Pizza <FaPizzaSlice /></NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
                     </MobileIcon>
@@ -45,11 +45,11 @@ const Navbar = ({ toggle }) => {
                             <NavLinks to="drinks" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Drinks</NavLinks>
                         </NavItem>
                         <NavItem>
-                            <NavLink to="/fullmenu">Full Menu</NavLink>
+                            <NavLink to="/PizzaRestaurant/fullmenu">Full Menu</NavLink>
                         </NavItem>
                     </NavMenu>
                     <NavBtn>
-                        <NavBtnLink to="/signin">Sign In</NavBtnLink>
+                        <NavBtnLink to="/PizzaRestaurant/signin">Sign In</NavBtnLink>
                     </NavBtn>
                 </NavbarContainer>
             </Nav>

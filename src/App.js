@@ -13,9 +13,9 @@ function App() {
         <title>Pizza</title>
       </Helmet>
       <Switch>
-        <Route path="/" component={Home} exact />
-        <Route path="/signin" component={SigninPage} exact />
-        <Route path="/fullmenu" component={FullMenu} exact />
+        <Route path="/PizzaRestaurant" component={Home} exact />
+        <Route path="/PizzaRestaurant/signin" component={SigninPage} exact />
+        <Route path="/PizzaRestaurant/fullmenu" component={FullMenu} exact />
       </Switch>
      </Router>
   );
