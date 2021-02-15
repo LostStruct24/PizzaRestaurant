@@ -40,9 +40,9 @@ export const HeroItems = styled.div`
 export const HeroH1 = styled.h1`
     font-size: clamp(2.5rem, 10vw, 5rem);
     margin-bottom: 1rem;
-    margin-top: 4rem;
-    box-shadow: 3px 5px #e9ba23;
-    letter-spacing: 3px;
+    margin-top: 3rem;
+    box-shadow: 0 5px #e9ba23;
+    letter-spacing:3px;
 `;
 
 export const HeroP = styled.p`
@@ -59,7 +59,7 @@ export const HeroBtnWrapper = styled.div`
 
 export const HeroBtn = styled(LinkR)`
     font-size: 1.4rem;
-    padding: 1rem 4rem;
+    padding: 1rem 3rem;
     border: none;
     background: #e31837;
     color: #fff;
