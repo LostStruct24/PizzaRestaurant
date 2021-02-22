@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PizzaRestaurant/static/css/main.45498ba3.chunk.css",
-    "main.js": "/PizzaRestaurant/static/js/main.e89ffb51.chunk.js",
-    "main.js.map": "/PizzaRestaurant/static/js/main.e89ffb51.chunk.js.map",
+    "main.js": "/PizzaRestaurant/static/js/main.0b8728b9.chunk.js",
+    "main.js.map": "/PizzaRestaurant/static/js/main.0b8728b9.chunk.js.map",
     "runtime-main.js": "/PizzaRestaurant/static/js/runtime-main.af81e66f.js",
     "runtime-main.js.map": "/PizzaRestaurant/static/js/runtime-main.af81e66f.js.map",
-    "static/js/2.ad9bfdcf.chunk.js": "/PizzaRestaurant/static/js/2.ad9bfdcf.chunk.js",
-    "static/js/2.ad9bfdcf.chunk.js.map": "/PizzaRestaurant/static/js/2.ad9bfdcf.chunk.js.map",
+    "static/js/2.fb07945c.chunk.js": "/PizzaRestaurant/static/js/2.fb07945c.chunk.js",
+    "static/js/2.fb07945c.chunk.js.map": "/PizzaRestaurant/static/js/2.fb07945c.chunk.js.map",
     "index.html": "/PizzaRestaurant/index.html",
     "static/css/main.45498ba3.chunk.css.map": "/PizzaRestaurant/static/css/main.45498ba3.chunk.css.map",
-    "static/js/2.ad9bfdcf.chunk.js.LICENSE.txt": "/PizzaRestaurant/static/js/2.ad9bfdcf.chunk.js.LICENSE.txt",
+    "static/js/2.fb07945c.chunk.js.LICENSE.txt": "/PizzaRestaurant/static/js/2.fb07945c.chunk.js.LICENSE.txt",
     "static/media/drink1.e9b70561.jpg": "/PizzaRestaurant/static/media/drink1.e9b70561.jpg",
     "static/media/drink2.2760597a.jpg": "/PizzaRestaurant/static/media/drink2.2760597a.jpg",
     "static/media/drink3.3c997ed5.jpg": "/PizzaRestaurant/static/media/drink3.3c997ed5.jpg",
@@ -42,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.af81e66f.js",
-    "static/js/2.ad9bfdcf.chunk.js",
+    "static/js/2.fb07945c.chunk.js",
     "static/css/main.45498ba3.chunk.css",
-    "static/js/main.e89ffb51.chunk.js"
+    "static/js/main.0b8728b9.chunk.js"
   ]
 }
